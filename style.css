@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 200;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 200;
+    padding: 10px;
+}
+
+form {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 200;
+    padding-top: 30px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+button {
+    font-family: sans-serif;
+    font-weight: 200;
+    padding: 10px;
+    background-color: burlywood;
+    color: white;
+    border: 2px transparent;
+    border-radius: 9999px;
+    cursor: pointer;
+}
+
